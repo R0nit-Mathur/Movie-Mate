@@ -1,1 +1,0 @@
-const { searchMovies } = require("./movies");

@@ -67,5 +67,8 @@ async function searchMovies(query) {
   }
 }
 
+
 // Export the function properly
 export { searchMovies };
+
+
